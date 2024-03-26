@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 --- 
 
-💻 Latest Projects 
+💻 My Projects 
 
 🧠AI/ML Projects 
 * https://github.com/lnmurthy/FindYourStocks 
