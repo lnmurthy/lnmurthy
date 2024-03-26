@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hi there! My name is Leisha! 👋 
+
+NYU CS & Finance, Software Engineer looking for Web3/Crypto opportunities. 
+ex- Data Automation Engineer at Ultumus
+Python, Solidity, AWS, Java, iOS, and SQL
 
 <!--
 **lnmurthy/lnmurthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +20,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+🧰 Toolbox
+
+<img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="pythonlogo" width = "50" height = "50"><img src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="javalogo" width = "50" height = "50"><img src= "https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="soliditylogo" width = "50" height = "50"><img src= "https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swiftlogo" width = "50" height = "50"><img src= "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="awslogo" width = "50" height = "50">
+
+--- 
+
+💻 Latest Projects 
+
+🧠AI/ML Projects 
+* https://github.com/lnmurthy/FindYourStocks 
+* https://github.com/lnmurthy/TensorFlow-ImageClassificaiton
+* https://github.com/lnmurthy/FeatureEng-DeepLearning 
+* https://github.com/lnmurthy/Futoshiki-Solver 
+* https://github.com/lnmurthy/AI-PuzzleProblem
+
+
+
+🖌️ UI/UX + App/Web Projects 
+* https://github.com/lnmurthy/FinLit 
+* https://github.com/lnmurthy/InvesTio
+* CodePath iOS Course Projects + Labs (20 total) - currently private! 
+
+
+
+🥞 Fullstack + Backend Projects  
+* https://github.com/lnmurthy/FlyNYU
+* https://github.com/lnmurthy/NYCTransitHub
+
+
+
