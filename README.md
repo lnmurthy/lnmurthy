@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 --- 
 
-  - 🔭 I’m currently working on web3 projects, nyctransithub (web app that displays real-time nyc mta updates)
+  - 🔭 I’m currently working nyctransithub (real time mta updates for users in NYC)!
   - 🌱 I’m currently learning solidity, crypto general knowledge via SheFi
   - 📫 How to reach me: leisha.murthy@nyu.edu
   - 😄 Pronouns: she/her
