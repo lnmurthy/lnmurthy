@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 🖌️ UI/UX + App/Web Projects 
 * https://github.com/lnmurthy/FinLit 
-* https://github.com/lnmurthy/InvesTio
+* https://github.com/lnmurthy/InvesTio/blob/main/README.md
 * CodePath iOS Course Projects + Labs (20 total) - currently private! 
 
 
