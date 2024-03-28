@@ -7,7 +7,7 @@ ex- Data Automation Engineer at Ultumus
 ---
 
   - 🌱 I find the most interest in: Web3, Figma Prototyping, and iOS development
-  - 🔭 I’m currently working nyctransithub (real time mta updates for users in NYC)!
+  - 🔭 I’m currently working on nyctransithub (real time mta updates for users in NYC)!
   - 📫 How to reach me: leisha.murthy@nyu.edu
   - ⚡ Fun Fact: avatar fan!!
 
