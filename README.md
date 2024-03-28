@@ -37,7 +37,12 @@ Python, Solidity, AWS, Java, iOS, React.js, and SQL
 
 --- 
 
-💻 My Projects 
+💻 My Projects  
+
+🧑‍🤝‍🧑Finance Projects 
+* https://github.com/lnmurthy/FindYourStocks
+* https://github.com/lnmurthy/FinLit
+* https://github.com/lnmurthy/InvesTio/blob/main/README.md
 
 🧠AI/ML Projects 
 * https://github.com/lnmurthy/FindYourStocks
