@@ -1,15 +1,11 @@
-### Hi there! My name is Leisha! 👋 
+### hello! my name is leisha! 
 
-NYU CS & Finance, Software Engineer looking for Web3/Crypto opportunities.  
-
-ex- Data Automation Engineer at Ultumus 
+prev. NYU CS & Finance, ex- Data Engineer at Ultumus 
 
 ---
 
-  - 🌱 I find the most interest in: Web3, Figma Prototyping, and iOS development
-  - 🔭 I’m currently working on nyctransithub (real time mta updates for users in NYC)!
+  - 🌱 I find the most interest in: web3, data mining, figma prototyping, and ios deveopment
   - 📫 How to reach me: leisha.murthy@nyu.edu
-  - ⚡ Fun Fact: avatar fan!!
 
 
 <!--
