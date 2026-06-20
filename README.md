@@ -12,16 +12,11 @@ ml projects
 * https://github.com/lnmurthy/Futoshiki-Solver
 * https://github.com/lnmurthy/AI-PuzzleProblem
 
-ios
-* https://github.com/lnmurthy/FinLit
-* https://github.com/lnmurthy/InvesTio/blob/main/README.md
-* CodePath iOS Course Projects + Labs (20 total) - currently private! 
-
-
-
-🥞 Fullstack + Backend Projects  
+web/ios
 * https://github.com/lnmurthy/FlyNYU
 * https://github.com/lnmurthy/NYCTransitHub
+* https://github.com/lnmurthy/FinLit
+* https://github.com/lnmurthy/InvesTio/blob/main/README.md
 
 
 --- 
